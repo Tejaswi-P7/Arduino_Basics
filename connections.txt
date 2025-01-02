@@ -1,0 +1,19 @@
+green -   +
+white -   -
+
+trigger output pin has to send signals
+echo recieves input signals 
+
+lo - 2 microseconds
+high - 10
+low
+
+how to control rover 
+how to control rover remotely through rpi
+controlling rover semi autonomosly through sensors
+
+
+buck converter
+boost 
+motor drivers
+types of motors 
